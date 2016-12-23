@@ -1,8 +1,4 @@
 
-# Katy Huff's Homepage
+# Alex Lindsay's Homepage
 
-This is the repository that holds the hompage for Katy Huff. 
-
-## Building This Website
-
-Coming soon... 
+This is the repository that holds the hompage for Alex Lindsay.

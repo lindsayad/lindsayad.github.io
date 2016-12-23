@@ -1,11 +1,10 @@
 # Site settings
-title: Katy Huff
-email: katyhuff@gmail.com
-description: "Website of Katy Huff, nuclear engineer."
+title: Alex Lindsay
+email: alexlindsay239@gmail.com
+description: "Website of Alex Lindsay, computational scientist."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://katyhuff.github.io" # the base hostname & protocol for your site
-twitter_username: katyhuff
-github_username: katyhuff
+url: "https://lindsayad.github.io" # the base hostname & protocol for your site
+github_username: lindsayad
 
 # Agency color settings
 color:
@@ -44,5 +43,5 @@ scholar:
   details_link:   Details
 
   query: "@*"
-  
+
   repository: papers
